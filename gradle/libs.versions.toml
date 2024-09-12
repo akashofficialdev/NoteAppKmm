@@ -1,4 +1,4 @@
-[versions]
+    [versions]
 agp = "8.5.2"
 androidDriver = "1.5.3"
 kotlin = "2.0.0"
